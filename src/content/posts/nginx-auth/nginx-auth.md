@@ -54,7 +54,7 @@ Now, if I try to access the same URL, I get a popup asking me to enter the usern
 ![image](3.png)
 
 ----
-To access the video, go to https://143.110.250.230/temp/
+To access the video, go to https://143.110.250.230/temp/1699569918163273.webm
 
 
 Username: wsg
